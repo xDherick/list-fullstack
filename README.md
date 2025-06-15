@@ -47,7 +47,7 @@ Siga os passos abaixo para executar o projeto na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/xDherick/list-fullstack](https://github.com/xDherick/list-fullstack.git
+    git clone [https://github.com/xDherick/list-fullstack]
     ```
 
 2.  **Navegue até a pasta do projeto:**
