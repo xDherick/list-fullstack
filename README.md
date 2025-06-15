@@ -47,12 +47,12 @@ Siga os passos abaixo para executar o projeto na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/xDherick/list-fullstack]
+    git clone https://github.com/xDherick/list-fullstack
     ```
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd NOME-DO-SEU-REPOSITORIO
+    cd list-fullstack
     ```
 
 3.  **Configure e inicie o Backend:**
