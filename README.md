@@ -47,7 +47,7 @@ Siga os passos abaixo para executar o projeto na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git)
+    git clone [https://github.com/xDherick/list-fullstack](https://github.com/xDherick/list-fullstack.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
@@ -73,8 +73,3 @@ Siga os passos abaixo para executar o projeto na sua máquina.
     * **(Recomendado)** Se você usa o Visual Studio Code com a extensão "Live Server", clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server".
 
 Pronto! A aplicação deve estar funcionando completamente.
-
-## 👤 Autor
-
-* **[SEU NOME AQUI]**
-* GitHub: `https://github.com/SEU-USUARIO`
