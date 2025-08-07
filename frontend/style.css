@@ -60,8 +60,8 @@ h1 {
 }
 
 .task-item {
-  display: flex; /* Alinha o texto e o botão na mesma linha */
-  justify-content: space-between; /* Coloca o máximo de espaço entre eles */
+  display: flex; 
+  justify-content: space-between; 
   align-items: center;
   padding: 12px;
   border-bottom: 1px solid #eee;
@@ -73,7 +73,6 @@ h1 {
   background-color: #f9f9f9;
 }
 
-/* Tarefa completada fica com o texto riscado */
 .task-item.completed {
   text-decoration: line-through;
   color: #aaa;
